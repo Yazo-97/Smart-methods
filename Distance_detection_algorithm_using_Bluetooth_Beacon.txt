@@ -1,0 +1,16 @@
+While True:
+
+Start
+|
+|          If Read mac address:
+|
+|              Read distance
+|
+|              If distance < 2m:
+|
+|                  Play sound
+|             
+|
+end
+
+           
